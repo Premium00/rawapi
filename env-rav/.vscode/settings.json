@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/5a7375b7-e5a7-4319-a52e-5f7fc0fce046/AppServices/subscriptions/5a7375b7-e5a7-4319-a52e-5f7fc0fce046/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/super-raw-api-test",
+    "appService.deploySubpath": "."
+}
